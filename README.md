@@ -1,1 +1,3 @@
 # GIS_indah
+
+## File `export.geojson` berisi data spasial berupa garis (LineString) yang merepresentasikan jalur Jalan Pangaribuan di Desa Sipahutar, Kecamatan Sipahutar, Kabupaten Tapanuli Utara, Sumatera Utara. Data ini terdiri dari sekitar 78 titik koordinat yang membentuk lintasan jalan dan memiliki atribut seperti `@id` dan `highway` dengan kategori “unclassified”, menunjukkan bahwa ini adalah jalan lokal atau jalan desa. File ini dapat digunakan dalam sistem informasi geografis (GIS) untuk menampilkan, menganalisis, atau memvisualisasikan peta jalan di wilayah Desa Sipahutar secara digital.
